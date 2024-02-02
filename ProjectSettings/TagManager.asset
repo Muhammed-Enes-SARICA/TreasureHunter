@@ -1,0 +1,62 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Enemy
+  - FxTemporaire
+  - Ground
+  - TriggerEnemyWeapon
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - Ground
+  - Dekoratif1
+  - Grass
+  - sky
+  - character
+  - Enemy
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: sky
+    uniqueID: 2664789415
+    locked: 0
+  - name: Ground
+    uniqueID: 456390699
+    locked: 0
+  - name: Dekoratif1
+    uniqueID: 1996655513
+    locked: 0
+  - name: Grass
+    uniqueID: 3910167389
+    locked: 0
+  - name: character
+    uniqueID: 4120157541
+    locked: 0
